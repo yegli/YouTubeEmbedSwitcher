@@ -64,13 +64,3 @@ To run the extension locally:
 ## License
 
 This extension is open-source and available under the [MIT License](LICENSE).
-
----
-
-## Contact
-
-For any questions or issues, feel free to open an issue in this repository or reach out via email at [your-email@example.com].
-
----
-
-This **README.md** file provides clear instructions for anyone to clone, install, and run the extension in developer mode without paying any fees. You can replace the placeholder information (like your GitHub username and email) with your own details.
